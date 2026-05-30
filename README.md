@@ -1,5 +1,6 @@
-💫 About Me:
-🔭 I'm currently working on Open Source projects and AI/ML learning projects<br><br>👯 I'm looking to collaborate on AI/ML, Data Science, and Full-Stack Development projects<br><br>🤝 I'm looking for help with Machine Learning, Deep Learning, and System Design<br><br>🌱 I'm currently learning Machine Learning, Neural Networks, Next.js, and TypeScript<br><br>💬 Ask me about Python, React, JavaScript, Git, Open Source, and beginner AI/ML concepts<br><br>⚡ Fun fact: I enjoy combining software engineering with AI to build solutions that can learn, adapt, and make an impact
+About Me:
+I'm Yashraj Siwal, a B.Tech student at IIIT Vadodara with a strong interest in Artificial Intelligence, Machine Learning, and software engineering. I enjoy building practical solutions, contributing to open-source projects, and continuously expanding my technical knowledge through hands-on development. My experience spans web technologies, modern software development practices, and collaborative open-source contributions. As I continue my journey in technology, I am focused on strengthening my expertise in AI/ML while building scalable applications that create meaningful real-world impact.
+
 
 🌐 Socials:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white) ![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
